@@ -1,0 +1,16 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "Just for Check",
+  "private": true,
+  "main": "1_LambdaWithThis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manish Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2.5.7"
+  }
+}
